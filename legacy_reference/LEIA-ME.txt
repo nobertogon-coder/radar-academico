@@ -1,0 +1,1 @@
+Arquivos recuperados da versão anterior do Radar Acadêmico, preservados apenas para consulta histórica. Não executar nem publicar isoladamente: a versão antiga gravava a senha sem hash e permitia entrar no painel sem autenticação real.
